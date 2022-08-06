@@ -25,7 +25,7 @@
             </ul>
         </div>
         <div class="text-content">
-            <h2>Selamat Datang di astronomyKu </h2>
+            <h2>Selamat Datang di astronomyKuwe </h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate reiciendis ipsam officia distinctio
                 ullam consequatur, tenetur saepe eos nemo quos.</p>
         </div>
